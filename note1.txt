@@ -1,4 +1,3 @@
-iphone4
-iphone4s
-iphone5
-iphone5s
+LG G-2
+Cherry Mobile
+Samsung Galaxy S5
